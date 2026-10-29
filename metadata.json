@@ -1,0 +1,6 @@
+{
+  "name": "Fair Harvest — Northeast Direct Farmer-Buyer & Aggregation Network",
+  "description": "Connecting Northeast India farmers directly to institutional buyers and processors, eliminating middlemen with mandi price transparency, collective crop pooling, shared hill transport, and voice-assisted low-literacy workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
