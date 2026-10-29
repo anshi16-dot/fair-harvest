@@ -1,7 +1,7 @@
 # 🌾 Fair Harvest
 ### Better Prices for Farmers. Simpler Sourcing for Buyers.
 
-**Fair Harvest** is a farmer-first digital marketplace designed to connect farmers across Northeast India with buyers directly. Our goal is to help farmers access fair market prices, reduce transportation costs, and reach more buyers through technology.
+**Fair Harvest** is a digital marketplace designed to connect farmers across Northeast India with buyers directly. Our goal is to help farmers access fair market prices, reduce transportation costs, and reach more buyers through technology.
 
 🌱 **Our Vision:** Making agricultural trade more transparent, accessible, and efficient.
 
@@ -44,10 +44,10 @@ Fair Harvest aims to solve these challenges through a simple, inclusive platform
 
 Our proposed platform can use technologies such as:
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js or FastAPI
-- **Database:** PostgreSQL
-- **Voice Assistance:** Web Speech API or compatible speech services
+- **Frontend:** HTML, CSS, JavaScript/TypeScript
+- **Backend:** TypeScript
+- **Development & Build Tool:** Vite
+- **Configuration:** JSON and TypeScript configuration files
 
 *The final technology stack depends on the implementation.*
 
